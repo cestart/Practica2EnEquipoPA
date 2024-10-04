@@ -1,0 +1,5 @@
+002		Ladrillos		01
+003		Albañiles		02
+004		Energia electrica		03
+010		Agua Potable		04
+001		Laminas Inoxidables		01
